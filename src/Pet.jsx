@@ -8,6 +8,8 @@
 //   ]);
 // };
 
+// no essentially need to import React in here 
+
 const Pet = (props) => {
   return (
     <div>
